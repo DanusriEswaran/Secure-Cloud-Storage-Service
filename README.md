@@ -1,2 +1,1 @@
-# Secure-Cloud-Storage-Service
-Built secure cloud storage: Python, Flask, MySQL. Strong encryption, user auth, file validation, FTP. Expertise: Python, Flask, encryption, DB, file transfer.
+Created a secure cloud storage service using Python and Flask, implementing strong encryption (Fernet) for data security. Integrated user authentication via MySQL, enabling secure logins and session management. Developed file upload functionality with format validation and size restrictions, ensuring optimal storage management. Incorporated FTP integration for seamless file transfers, highlighting adeptness in Python, Flask, database handling, encryption techniques, and file transfer protocols.
